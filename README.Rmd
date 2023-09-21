@@ -5,8 +5,9 @@ output: github_document
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 <!-- badges: start -->
-  [![R-CMD-check](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml)
-  <!-- badges: end -->
+[![R-CMD-check](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/borishejblum/mypkgr092023/branch/main/graph/badge.svg)](https://app.codecov.io/gh/borishejblum/mypkgr092023?branch=main)
+<!-- badges: end -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(

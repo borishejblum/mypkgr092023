@@ -3,6 +3,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/borishejblum/mypkgr092023/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/borishejblum/mypkgr092023/branch/main/graph/badge.svg)](https://app.codecov.io/gh/borishejblum/mypkgr092023?branch=main)
 <!-- badges: end -->
 
 # mypkgr092023
